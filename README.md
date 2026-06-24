@@ -1,4 +1,4 @@
-# Office-For-Free(Freedom) (OFF)
+# Office-For-Free (OFF)
 Open-source office software
 
 OFF is one open-source project for free office software, named Office For Free (Freedom). pdf js is used as temperoray viewer in this project due to limit of development time.
